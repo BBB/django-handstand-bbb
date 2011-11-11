@@ -24,7 +24,7 @@ coverage
 # Django
 dev.db*
 *.log
-settings.*
+*settings.py
 media/*
 
 #virtualenv
